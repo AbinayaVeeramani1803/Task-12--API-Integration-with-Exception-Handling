@@ -1,0 +1,173 @@
+[
+{
+"id": 1,
+"name": "Abinaya Veeramani",
+"username": "abinaya_v",
+"email": "abinaya@gmail.com",
+"address": {
+"street": "Anna Nagar",
+"suite": "Flat 101",
+"city": "Chennai",
+"zipcode": "600040"
+},
+"phone": "9876543210",
+"website": "abinayaportfolio.in",
+"company": {
+"name": "Chennai Tech Solutions"
+}
+},
+{
+"id": 2,
+"name": "Karthik Raj",
+"username": "karthik_r",
+"email": "karthik@gmail.com",
+"address": {
+"street": "Race Course Road",
+"suite": "House 22",
+"city": "Coimbatore",
+"zipcode": "641018"
+},
+"phone": "9876543211",
+"website": "karthiktech.in",
+"company": {
+"name": "Kovai Software Pvt Ltd"
+}
+},
+{
+"id": 3,
+"name": "Priya Shankar",
+"username": "priya_s",
+"email": "priya@gmail.com",
+"address": {
+"street": "KK Nagar",
+"suite": "Apartment 12",
+"city": "Madurai",
+"zipcode": "625020"
+},
+"phone": "9876543212",
+"website": "priyaportfolio.in",
+"company": {
+"name": "Madurai IT Hub"
+}
+},
+{
+"id": 4,
+"name": "Vignesh Kumar",
+"username": "vignesh_k",
+"email": "vignesh@gmail.com",
+"address": {
+"street": "VOC Street",
+"suite": "Flat 204",
+"city": "Tirunelveli",
+"zipcode": "627001"
+},
+"phone": "9876543213",
+"website": "vigneshweb.in",
+"company": {
+"name": "Nellai Digital Services"
+}
+},
+{
+"id": 5,
+"name": "Harini Devi",
+"username": "harini_d",
+"email": "harini@gmail.com",
+"address": {
+"street": "Salem Main Road",
+"suite": "House 10",
+"city": "Salem",
+"zipcode": "636007"
+},
+"phone": "9876543214",
+"website": "harinidev.in",
+"company": {
+"name": "Salem Innovations"
+}
+},
+{
+"id": 6,
+"name": "Arun Prakash",
+"username": "arun_p",
+"email": "arun@gmail.com",
+"address": {
+"street": "Collector Office Road",
+"suite": "Flat 303",
+"city": "Trichy",
+"zipcode": "620001"
+},
+"phone": "9876543215",
+"website": "arunprakash.in",
+"company": {
+"name": "Trichy Tech Park"
+}
+},
+{
+"id": 7,
+"name": "Nandhini Ravi",
+"username": "nandhini_r",
+"email": "nandhini@gmail.com",
+"address": {
+"street": "Gandhi Nagar",
+"suite": "Apartment 45",
+"city": "Erode",
+"zipcode": "638001"
+},
+"phone": "9876543216",
+"website": "nandhiniweb.in",
+"company": {
+"name": "Erode Software Labs"
+}
+},
+{
+"id": 8,
+"name": "Sathish Kumar",
+"username": "sathish_k",
+"email": "sathish@gmail.com",
+"address": {
+"street": "Beach Road",
+"suite": "House 18",
+"city": "Thoothukudi",
+"zipcode": "628001"
+},
+"phone": "9876543217",
+"website": "sathishdev.in",
+"company": {
+"name": "Pearl City Technologies"
+}
+},
+{
+"id": 9,
+"name": "Keerthana Bala",
+"username": "keerthana_b",
+"email": "keerthana@gmail.com",
+"address": {
+"street": "Mela Veethi",
+"suite": "Flat 9",
+"city": "Thanjavur",
+"zipcode": "613001"
+},
+"phone": "9876543218",
+"website": "keerthanaportfolio.in",
+"company": {
+"name": "Delta IT Services"
+}
+},
+{
+"id": 10,
+"name": "Surya Narayanan",
+"username": "surya_n",
+"email": "surya@gmail.com",
+"address": {
+"street": "New Bus Stand Road",
+"suite": "House 25",
+"city": "Vellore",
+"zipcode": "632004"
+},
+"phone": "9876543219",
+"website": "suryaweb.in",
+"company": {
+"name": "Vellore Digital Solutions"
+}
+}
+]
+
